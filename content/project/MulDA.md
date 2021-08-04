@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = "2021-08-05"
+date = "2021-08-04"
 
 # Project title.
 title = "MulDA: A Multilingual Data Augmentation Framework for Low-Resource Cross-Lingual NER"
