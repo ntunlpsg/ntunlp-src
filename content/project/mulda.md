@@ -30,7 +30,8 @@ caption = ""
 
 
 # MulDA
-This [repository](https://github.com/ntunlp/mulda.git) contains the source code and data used in our paper "MulDA: A Multilingual Data Augmentation Framework for Low-Resource Cross-Lingual NER" accepted by ACL-IJCNLP 2021.
+
+This [repository](https://github.com/ntunlp/mulda.git) contains the source code and data used in our paper "MulDA: A Multilingual Data Augmentation Framework for Low-Resource Cross-Lingual NER" accepted by ACL-IJCNLP-2021.
 
 
 ## Data
