@@ -64,12 +64,12 @@ weight = 4
 |[Tomasz Stanislawek](https://pl.linkedin.com/in/tomasz-stanisławek-91092729) <br> PhD Student <br> <small>Warsaw University of Technology  <br> July 2019 - Aug 2019</small> | [Barbara Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/) <br> PhD student, <br> <small> Warsaw University of Technology <br>July 2019 - Aug 2019 </small> |
 
 
-
+<!-- 
 |External Collaborators | | |
 |:---: |:---: |:---: |
 | <img class="img-circle" style="width: 150px;" src="./person/carenini.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/Raymond_Ng.JPG"> | <img class="img-circle" style="width: 150px;" src="./person/glass.jpg"> |
 |[Giuseppe Carenini](http://www.cs.ubc.ca/~carenini/) (UBC) <br>|[Raymond T. Ng](https://www.cs.ubc.ca/~rng/) (UBC)|[Jim Glass](https://www.csail.mit.edu/person/jim-glass) (MIT)|
 | <img class="img-circle" style="width: 150px;" src="./person/marquez.jpeg"> | <img class="img-circle" style="width: 150px;" src="./person/preslav.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/jaideep.jpg"> |
 |[Lluis Marquez](https://scholar.google.com/citations?user=yFNUfjsAAAAJ&hl=en) (Amazon)<br>|[Dr. Preslav Nakov](http://people.ischool.berkeley.edu/~nakov/) (QCRI)|[Jaideep Srivastava](https://scholar.google.com/citations?user=Y4J5SOwAAAAJ&hl=en) (UM)|
-
+ -->
 
