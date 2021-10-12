@@ -59,7 +59,7 @@ weight = 4
 |[Tomasz Stanislawek](https://pl.linkedin.com/in/tomasz-stanisławek-91092729) <br> PhD Student <br> <small>Warsaw University of Technology  <br> July 2019 - Aug 2019</small> | [Barbara Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/) <br> PhD student, <br> <small> Warsaw University of Technology <br>July 2019 - Aug 2019 </small> |
 
 
-|Allumni Students| |
+|Allumni| |
 |:---:| :---: |
 | <img class="img-circle" style="width: 150px;" src="./person/simeng.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/thomas.jpg"> |
 | [Han Simeng](https://www.linkedin.com/in/simeng-han-746135159/) | Nguyen Thanh Tung |
