@@ -38,22 +38,17 @@ weight = 4
 
 |Postdoc and Ph.D. | | |
 |:---: | :---: | :---: |
-| <img class="img-circle" style="width: 150px;" src="./person/tasnim.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/prathyusha.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/thomas.jpg"> |
-| [Tasnim Mohiuddin](https://taasnim.github.io/) | [Prathyusha Jwalapuram](https://pjwalapuram.com) | Nguyen Thanh Tung |
-|<img class="img-circle" style="width: 150px;" src="./person/han.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/saiful.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/LinXiang.jpg"> |
-| [Hancheol Moon](https://han8931.github.io/) | [M Saiful Bari](https://sbmaruf.github.io) | [Lin Xiang](https://shawnlimn.github.io) |
-| <img class="img-circle" style="width: 150px;" src="./person/linlin.png"> | <img class="img-circle" style="width: 150px;" src="./person/phi.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/wang.jpg">|
-|[Linlin Liu](https://sg.linkedin.com/in/linlin-liu-26392846) |[Xuan Phi Nguyen](https://www.linkedin.com/in/xuanphinguyen/) | [Wang Weishi](https://www.linkedin.com/in/weishi-wang/)|
-| <img class="img-circle" style="width: 150px;" src="./person/bosheng.jpeg"> | <img class="img-circle" style="width: 150px;" src="./person/tao.jpg">  | <img class="img-circle" style="width: 150px;" src="./person/ruochen.jpg"> |
-| [Ding Bosheng](https://www.linkedin.com/in/ding-bosheng-58b3b262/) | Tao Yu  | [Ruochen Zhao](https://www.linkedin.com/in/esther-ruochen-zhao-855357150/) |
-| <img class="img-circle" style="width: 150px;" src="./person/ravaut.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/Chen.jpg">  | <img class="img-circle" style="width: 150px;" src="./person/ChengweiQin.jpeg"> |
-| [Mathieu RAVAUT](https://www.linkedin.com/in/mathieuravaut/)  | [Hailin Chen](https://www.linkedin.com/in/chenhailin/)  | [Chengwei Qin](https://www.linkedin.com/in/chengwei-qin-3401a1107) |
+| <img class="img-circle" style="width: 150px;" src="./person/tasnim.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/prathyusha.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/han.jpg"> |
+| [Tasnim Mohiuddin](https://taasnim.github.io/) | [Prathyusha Jwalapuram](https://pjwalapuram.com) | [Hancheol Moon](https://han8931.github.io/) |
+| <img class="img-circle" style="width: 150px;" src="./person/saiful.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/LinXiang.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/linlin.png">  |
+| [M Saiful Bari](https://sbmaruf.github.io) | [Lin Xiang](https://shawnlimn.github.io) | [Linlin Liu](https://sg.linkedin.com/in/linlin-liu-26392846) |
+| <img class="img-circle" style="width: 150px;" src="./person/phi.jpg"> |  <img class="img-circle" style="width: 150px;" src="./person/wang.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/bosheng.jpeg"> |
+| [Xuan Phi Nguyen](https://www.linkedin.com/in/xuanphinguyen/) | [Wang Weishi](https://www.linkedin.com/in/weishi-wang/) |  [Ding Bosheng](https://www.linkedin.com/in/ding-bosheng-58b3b262/)|
+| <img class="img-circle" style="width: 150px;" src="./person/tao.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/ruochen.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/ravaut.jpg"> |
+| Tao Yu | [Ruochen Zhao](https://www.linkedin.com/in/esther-ruochen-zhao-855357150/)  | [Mathieu RAVAUT](https://www.linkedin.com/in/mathieuravaut/) |
+| <img class="img-circle" style="width: 150px;" src="./person/Chen.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/ChengweiQin.jpeg">  | <img class="img-circle" style="width: 150px;" src="./person/xingxuanli.png"> |
+|  [Hailin Chen](https://www.linkedin.com/in/chenhailin/) | [Chengwei Qin](https://www.linkedin.com/in/chengwei-qin-3401a1107) | [Xingxuan Li](https://xingxuanli.github.io)  |
 
-
-|Research Assistant |
-|:---: |
-| <img class="img-circle" style="width: 150px;" src="./person/simeng.jpg"> |
-| [Han Simeng](https://www.linkedin.com/in/simeng-han-746135159/) |
 
 
 |Visiting Students| | |
@@ -64,12 +59,7 @@ weight = 4
 |[Tomasz Stanislawek](https://pl.linkedin.com/in/tomasz-stanisławek-91092729) <br> PhD Student <br> <small>Warsaw University of Technology  <br> July 2019 - Aug 2019</small> | [Barbara Rychalska](https://www.linkedin.com/in/barbara-rychalska-97825634/) <br> PhD student, <br> <small> Warsaw University of Technology <br>July 2019 - Aug 2019 </small> |
 
 
-<!-- 
-|External Collaborators | | |
-|:---: |:---: |:---: |
-| <img class="img-circle" style="width: 150px;" src="./person/carenini.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/Raymond_Ng.JPG"> | <img class="img-circle" style="width: 150px;" src="./person/glass.jpg"> |
-|[Giuseppe Carenini](http://www.cs.ubc.ca/~carenini/) (UBC) <br>|[Raymond T. Ng](https://www.cs.ubc.ca/~rng/) (UBC)|[Jim Glass](https://www.csail.mit.edu/person/jim-glass) (MIT)|
-| <img class="img-circle" style="width: 150px;" src="./person/marquez.jpeg"> | <img class="img-circle" style="width: 150px;" src="./person/preslav.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/jaideep.jpg"> |
-|[Lluis Marquez](https://scholar.google.com/citations?user=yFNUfjsAAAAJ&hl=en) (Amazon)<br>|[Dr. Preslav Nakov](http://people.ischool.berkeley.edu/~nakov/) (QCRI)|[Jaideep Srivastava](https://scholar.google.com/citations?user=Y4J5SOwAAAAJ&hl=en) (UM)|
- -->
-
+|Allumni Students| |
+|:---:| :---: |
+| <img class="img-circle" style="width: 150px;" src="./person/simeng.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/thomas.jpg"> |
+| [Han Simeng](https://www.linkedin.com/in/simeng-han-746135159/) | Nguyen Thanh Tung |
