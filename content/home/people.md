@@ -45,9 +45,9 @@ weight = 4
 | <img class="img-circle" style="width: 150px;" src="./person/phi.jpg"> |  <img class="img-circle" style="width: 150px;" src="./person/wang.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/bosheng.jpeg"> |
 | [Xuan Phi Nguyen](https://www.linkedin.com/in/xuanphinguyen/) | [Wang Weishi](https://www.linkedin.com/in/weishi-wang/) |  [Ding Bosheng](https://www.linkedin.com/in/ding-bosheng-58b3b262/)|
 | <img class="img-circle" style="width: 150px;" src="./person/tao.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/ruochen.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/ravaut.jpg"> |
-| Tao Yu | [Ruochen Zhao](https://www.linkedin.com/in/esther-ruochen-zhao-855357150/)  | [Mathieu RAVAUT](https://www.linkedin.com/in/mathieuravaut/) |
+| Tao Yu | [Ruochen Zhao](https://www.linkedin.com/in/esther-ruochen-zhao-855357150/)  | [Mathieu RAVAUT](https://ravoxsg.github.io/) |
 | <img class="img-circle" style="width: 150px;" src="./person/Chen.jpg"> | <img class="img-circle" style="width: 150px;" src="./person/ChengweiQin.jpeg">  | <img class="img-circle" style="width: 150px;" src="./person/xingxuanli.png"> |
-|  [Hailin Chen](https://www.linkedin.com/in/chenhailin/) | [Chengwei Qin](https://www.linkedin.com/in/chengwei-qin-3401a1107) | [Xingxuan Li](https://xingxuanli.github.io)  |
+|  [Hailin Chen](https://www.linkedin.com/in/chenhailin/) | [Chengwei Qin](https://qcwthu.github.io/) | [Xingxuan Li](https://xingxuanli.github.io)  |
 
 
 
