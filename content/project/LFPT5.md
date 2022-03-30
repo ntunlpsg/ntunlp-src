@@ -13,7 +13,7 @@ image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["representation-learning"]`
-tags = ["representation-learning"]
+tags = ["continual-learning", "multitask-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

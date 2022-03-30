@@ -76,6 +76,15 @@ filter_default = 0
 [[filter]]
   name = "self-supervision"
   tag = ".self-supervision"
+[[filter]]
+  name = "continual-learning"
+  tag = ".continual-learning"
+[[filter]]
+  name = "multitask-learning"
+  tag = ".multitask-learning"
+
+
+  
 
 
 +++
