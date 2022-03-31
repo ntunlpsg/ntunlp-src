@@ -28,7 +28,7 @@ caption = ""
 
 +++
 
-[github](https://github.com/shawnlimn/ScaleGrad)
+[github](https://github.com/ntunlp/coherence-paradigm#readme)
 
 Code and data for the ACL 2022 paper: https://arxiv.org/abs/2110.07198
 
