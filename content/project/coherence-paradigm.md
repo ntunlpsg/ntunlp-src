@@ -23,12 +23,16 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "rethink-coherence.png"
+image = "rethink-coherence1.png"
 caption = ""
 
 +++
 
-[github](https://github.com/ntunlp/coherence-paradigm#readme)
+<center>
+    <form action="https://github.com/ntunlp/coherence-paradigm#readme">
+        <input style="width:200px;height:100px;" type="submit" value="GitHub" />
+    </form>
+</center>
 
 Code and data for the ACL 2022 paper: https://arxiv.org/abs/2110.07198
 

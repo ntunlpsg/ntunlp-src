@@ -326,7 +326,11 @@ url={https://openreview.net/forum?id=HCRVf71PMF}
       <guid>https://ntunlpsg.github.io/project/coherence-paradigm/</guid>
       <description>
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/ntunlp/coherence-paradigm#readme&#34; target=&#34;_blank&#34;&gt;github&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;center&gt;
+    &lt;form action=&#34;https://github.com/ntunlp/coherence-paradigm#readme&#34;&gt;
+        &lt;input style=&#34;width:200px;height:100px;&#34; type=&#34;submit&#34; value=&#34;GitHub&#34; /&gt;
+    &lt;/form&gt;
+&lt;/center&gt;&lt;/p&gt;
 
 &lt;p&gt;Code and data for the ACL 2022 paper: &lt;a href=&#34;https://arxiv.org/abs/2110.07198&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/abs/2110.07198&lt;/a&gt;&lt;/p&gt;
 
