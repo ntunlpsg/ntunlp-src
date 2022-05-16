@@ -1,9 +1,9 @@
 +++
 # Date this page was created.
-date = 2021-02-24
+date = 2022-05-15
 
 # Project title.
-title = "DAGA: Data Augmentation with a Generation Approach for Low-resource Tagging Tasks"
+title = "GlobalWoZ: Globalizing MultiWoZ to Develop Multilingual Task-Oriented Dialogue Systems"
 
 # Project summary to display on homepage.
 summary = "Data augmentation for low resource tagging."
