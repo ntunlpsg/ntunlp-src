@@ -23,7 +23,7 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "rethink-coherence1.png"
+image = "coherence_model_full.PNG"
 caption = ""
 
 +++
