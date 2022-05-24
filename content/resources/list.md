@@ -82,6 +82,10 @@ filter_default = 0
 [[filter]]
   name = "multitask-learning"
   tag = ".multitask-learning"
+[[filter]]
+  name = "data-augmentation"
+  tag = ".data-augmentation"
+
 
 
   
